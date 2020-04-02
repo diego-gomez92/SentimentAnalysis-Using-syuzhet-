@@ -1,2 +1,2 @@
-# SentimentAnalysis-Using-syuzhet-
+# SentimentAnalysis-Using-syuzhet-R
 This project revolves around the sentiment analysis of various forms of text using the 'syuzhet' library in R. The intent is to show the flexibility of sentiment analysis and its applications. Whether it is text from the news, blog, or book, I hope that this project can guide readers to conduct their own sentiment analysis so that they can derive interesting conclusions.
